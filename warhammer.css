@@ -1,0 +1,148 @@
+@font-face{
+	font-family: "Bungee";
+	src: url("./fuentes/Bungee-Regular.ttf");
+}
+
+@font-face{
+	font-family: "Winky";
+	src: url("./fuentes/WinkySans-VariableFont_wght.ttf");
+}
+
+body{
+	background-color: #0f0f0f;
+}
+.carousel{
+	margin-bottom:3%;
+}
+
+#carouselExampleCaptions .carousel-item img{
+    height: 500px;
+    object-fit: cover;
+}
+
+
+.card{
+	color: white;
+	background-color:black;
+	margin-top:10%;
+}
+
+.navbar1{
+	margin-top:2%;
+	padding:1%;
+	background-color:black;
+	color: white;
+}
+.bi{
+	margin-left:10px;
+	float:right;
+	color:white;
+}
+
+#titulo{
+	font-family: Bungee;
+	padding: 2%;
+	color: white;
+	text-align: center;
+	margin: auto;
+}
+
+#barra{
+	border:solid white 3px;
+	border-radius: 50px;
+	margin: auto;
+	text-align:center;
+	width: 50%;
+}
+
+#subtitulo{
+	font-family: Winky;
+	color: white;
+	text-align: center;
+	margin: auto;
+	padding-bottom: 2%;
+}
+
+.navbar-brand{
+	font-family: Bungee;
+}
+
+#carousel{
+	font-family: Bungee;
+	color: white;
+}
+
+#winky{
+	font-family: Winky;
+}
+
+#poducto{
+	width: 100%;
+}
+
+
+#lista{
+	font-family: Winky;
+	color: white;
+}
+
+#prod{
+	margin: none;
+}
+
+.card1{
+	color: white;
+	background-color:black;
+	margin-top:5%;
+}
+
+#columna{
+	padding: 2rem;
+}
+
+#botonprod{
+	text-align: center;
+	margin: auto;
+}
+
+#pie{
+	margin-top: 2rem;
+}
+
+a{
+	text-decoration: none;
+}
+
+.portada{
+	height: 10px;
+}
+
+#portada{
+	text-align: center;
+	color: white;
+	background-color:black;
+	margin-top:2%;
+}
+
+#formulario1{
+	width:44%;
+	margin-right: 10rem;
+	float:left;
+}
+
+#formulario2{
+	margin-top: 10rem;
+}
+
+#registro{
+	margin-top: 10rem;
+
+#pie2{
+	clear: both;
+	margin-top: 2rem;
+}
+
+#enviar{
+	margin-left: 45%;
+	text-align: center;
+}
